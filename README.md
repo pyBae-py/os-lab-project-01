@@ -7,7 +7,7 @@ Hey there, this is your Details.md file. Send me Pull request, add your project 
 | 0      |                   Sadain & BSE-4A                    |            [Struts](https://github.com/sadainiqrar/struts)             |
 | 01     |              Sajeel, Shaheer, & Souban               | [NodeJS App via Docker](https://github.com/pyBae-py/oslab-project.git) |
 | 02     |     Abdullah Malik, Saad Iqbal & Huzaifa Arshad      |                     Install a package from source                      |
-| 03     |        Hammad Ali, Usama Khalid & Zahid Ullah        | [CI/CD with gitHub](https://github.com/zahidn/oslab-mid)           | 
+| 03     |        Hammad Ali, Usama Khalid & Zahid Ullah        | [CI/CD with gitHub](https://github.com/HammadAli01/node-js-getting-started)           | 
 | 04     |      Duaa e Fatima , Sahar Khan, & Asfa Abbasi       |                            Monitoring network                          |
 | 05     |                    Mahnoor,Abiha                     |                      Running apps with virtualenv                      |
 | 06     |          Anas, Abdul Rauf and Hassan Toori           |                 load balancer/proxy server with Nginx                  |
