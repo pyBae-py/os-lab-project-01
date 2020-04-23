@@ -10,7 +10,7 @@ Hey there, this is your Details.md file. Send me Pull request, add your project 
 | 03     |        Hammad Ali, Usama Khalid & Zahid Ullah        | [CI/CD with gitHub](https://github.com/HammadAli01/node-js-getting-started)           | 
 | 04     |      Duaa e Fatima , Sahar Khan, & Asfa Abbasi       |                            Monitoring network                          |
 | 05     |                    Mahnoor,Abiha                     |                      Running apps with virtualenv                      |
-| 06     |          Anas, Abdul Rauf and Hassan Toori           | [Load Balancer using Nginx] (https://github.com/abdul-raouf/load-balancer-proxy-server-with-Nginx)                 |
+| 06     |          Anas, Abdul Rauf and Hassan Toori           | [Load Balancer using Nginx](https://github.com/abdul-raouf/load-balancer-proxy-server-with-Nginx)                 |
 | 07     |        Obaid Awan, Iqrar Ijaz and Umair Tahir        |                     install a package from source                      |
 | 08     |   Arslan Anwar, Habib ur Rehman and Shahab Mughal    | [Image Containerization](https://github.com/arslan919/OS-Lab-Project)  |
 | 09     |        Faiz Sohail, Abdul Manan and Ali Imam         |                            Not entered yet                             |
